@@ -27,4 +27,4 @@
 
 ## Адреса сайту
 
-Буде додано після публікації сайту.
+https://kotokveronika987-cloud.github.io/web-course/
